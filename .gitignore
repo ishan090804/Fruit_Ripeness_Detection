@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Dataset
+banana_data/
+
+# Large archive
+archive\ (2).zip
+
+# Trained model files
+models/*.keras
+
+# Python cache
+__pycache__/
+*.pyc
