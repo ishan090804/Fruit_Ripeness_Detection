@@ -17,7 +17,7 @@ CLASS_NAMES = ['overripe', 'ripe', 'rotten', 'unripe']
 
 # Paths
 TRAIN_DIR = 'banana_data/data/train'
-VAL_DIR = 'banana_data/data/test'
+VAL_DIR = 'data/test'
 MODEL_DIR = 'models'
 
 # Create models directory if it doesn't exist
